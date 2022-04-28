@@ -2,7 +2,7 @@
 <h3># Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]
+You can find me on 
 
 <!-- Icons -->
 
