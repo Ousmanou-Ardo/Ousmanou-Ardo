@@ -1,9 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric**
 
 - 👨‍💻 All of my projects are available at [helrtriyue.con45cscom](helrtriyue.con45cscom)
