@@ -1,5 +1,5 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-<h3># Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
+<h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
 
 You can find me on 
