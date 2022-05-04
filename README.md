@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub :v:
 
-- 🌱 I’m currently learning **Haskell,Hyperledger fabric**
+- 🌱 I’m currently learning **Haskell,Hyperledger fabric** :fire:
 
 - 👨‍💻 All of my projects are available at [helrtriyue.con45cscom](helrtriyue.con45cscom)
 
