@@ -18,9 +18,6 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
