@@ -1,14 +1,15 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
-![alt text](https://github.com/Ousmanou-Ardo/Ousmanou-Ardo/main/header.png?raw=true)
+![alt text](https://github.com/Ousmanou-Ardo/Ousmanou-Ardo/master/header.png?raw=true)
 # Welcome to my GitHub :v:
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@YayaOusmanou20) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@YayaOusmanou20)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yaya-ousmanou-291b3121a)
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric**
 
 - 👨‍💻 All of my projects are available at [helrtriyue.con45cscom](helrtriyue.con45cscom)
