@@ -1,8 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6927661766558547968" allowfullscreen="" title="Embedded post" width="504" height="528" frameborder="0"></iframe>
-
 # Welcome to my GitHub :v:
 
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric**
