@@ -2,6 +2,7 @@
 <h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
 
+<details open>
 # Welcome to my GitHub :v:
 
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric** :fire:
@@ -17,6 +18,8 @@
 - 📄 Know about my experiences [mexperiendce.i](mexperiendce.i)
 
 - ⚡ Fun fact **I am funny**
+  
+  </details>
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
