@@ -4,7 +4,7 @@
 
 <details open>
   
-<summary>🤝 <b> ** Welcome to my GitHub ** :v: </b></summary>
+<summary> **Welcome to my GitHub** :v: </b></summary>
 
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric** :fire:
 
