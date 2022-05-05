@@ -1,8 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hello, folks! 👋<br>I'm Yaya Ousmanou<br>Web Developer & IT Support specialiste</h3>
 <!-- Actual text -->
-
-<details open>
   
 # Welcome to my GitHub :v: </b>
 
@@ -20,7 +18,6 @@
 
 - ⚡ Fun fact **I am funny**
   
-  </details>
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
