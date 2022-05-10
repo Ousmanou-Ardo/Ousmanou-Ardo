@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Haskell,Hyperledger fabric** :fire:
 
-- 👨‍💻 All of my projects are available at [helrtriyue.con45cscom](helrtriyue.con45cscom)
+- 👨‍💻 All of my projects are available at [helrtriyue](helrtriyue)
 
-- 📝 I regularly write articles on [bollskgoblog](goblog)
+- 📝 I regularly write articles on [goblog](goblog)
 
 - 💬 Ask me about **Django**
 
