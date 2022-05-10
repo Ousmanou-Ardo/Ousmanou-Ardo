@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [helrtriyue.con45cscom](helrtriyue.con45cscom)
 
-- 📝 I regularly write articles on [bollskgoblog](bollskgoblog)
+- 📝 I regularly write articles on [bollskgoblog](goblog)
 
 - 💬 Ask me about **Django**
 
