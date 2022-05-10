@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **soppititi.com**
 
-- 📄 Know about my experiences [mexperiendce.i](mexperiendce.i)
+- 📄 Know about my experiences [mexperiendce](mexperiendce)
 
 - ⚡ Fun fact **I am funny**
   
